@@ -3,7 +3,7 @@ A mobile version of the FivePD MDT that can be opened on foot.
 
 # How to install
 
-## For fast instalation (With default keybind of "B":
+## For fast instalation (With default keybind of "B"):
 1. Dont worry it won't conflict with your in-car CAD
 2. Go to "Releases" on the right hand side of GitHub
 3. Download the latest release
