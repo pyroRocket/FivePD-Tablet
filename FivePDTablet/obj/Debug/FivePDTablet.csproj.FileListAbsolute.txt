@@ -1,0 +1,10 @@
+C:\Users\William\RiderProjects\FivePDTablet\FivePDTablet\obj\Debug\FivePDTablet.csproj.CoreCompileInputs.cache
+C:\Users\William\RiderProjects\FivePDTablet\FivePDTablet\bin\Debug\CitizenFX.Core.Client.dll
+C:\Users\William\RiderProjects\FivePDTablet\FivePDTablet\bin\Debug\CitizenFX.Core.dll
+C:\Users\William\RiderProjects\FivePDTablet\FivePDTablet\bin\Debug\FivePD.net.dll
+C:\Users\William\RiderProjects\FivePDTablet\FivePDTablet\obj\Debug\FivePDTablet.csproj.CopyComplete
+C:\Users\William\RiderProjects\FivePDTablet\FivePDTablet\bin\Debug\FivePDTablet.net.dll
+C:\Users\William\RiderProjects\FivePDTablet\FivePDTablet\bin\Debug\FivePDTablet.net.pdb
+C:\Users\William\RiderProjects\FivePDTablet\FivePDTablet\obj\Debug\FivePDTablet.net.dll
+C:\Users\William\RiderProjects\FivePDTablet\FivePDTablet\obj\Debug\FivePDTablet.net.pdb
+C:\Users\William\RiderProjects\FivePDTablet\FivePDTablet\obj\Debug\FivePDTablet.csprojAssemblyReference.cache
