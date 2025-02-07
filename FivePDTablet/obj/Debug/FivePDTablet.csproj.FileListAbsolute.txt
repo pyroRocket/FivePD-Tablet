@@ -8,3 +8,11 @@ C:\Users\William\RiderProjects\FivePDTablet\FivePDTablet\bin\Debug\FivePDTablet.
 C:\Users\William\RiderProjects\FivePDTablet\FivePDTablet\obj\Debug\FivePDTablet.net.dll
 C:\Users\William\RiderProjects\FivePDTablet\FivePDTablet\obj\Debug\FivePDTablet.net.pdb
 C:\Users\William\RiderProjects\FivePDTablet\FivePDTablet\obj\Debug\FivePDTablet.csprojAssemblyReference.cache
+C:\Users\chadf\Desktop\FivePD-Tablet-main\FivePDTablet\bin\Debug\FivePDTablet.net.dll
+C:\Users\chadf\Desktop\FivePD-Tablet-main\FivePDTablet\bin\Debug\FivePDTablet.net.pdb
+C:\Users\chadf\Desktop\FivePD-Tablet-main\FivePDTablet\bin\Debug\CitizenFX.Core.Client.dll
+C:\Users\chadf\Desktop\FivePD-Tablet-main\FivePDTablet\obj\Debug\FivePDTablet.csproj.AssemblyReference.cache
+C:\Users\chadf\Desktop\FivePD-Tablet-main\FivePDTablet\obj\Debug\FivePDTablet.csproj.CoreCompileInputs.cache
+C:\Users\chadf\Desktop\FivePD-Tablet-main\FivePDTablet\obj\Debug\FivePDTablet.csproj.CopyComplete
+C:\Users\chadf\Desktop\FivePD-Tablet-main\FivePDTablet\obj\Debug\FivePDTablet.net.dll
+C:\Users\chadf\Desktop\FivePD-Tablet-main\FivePDTablet\obj\Debug\FivePDTablet.net.pdb
